@@ -289,9 +289,9 @@ http://linextral.site:8080/BigMediaNews/TodayWeRule/218470
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="" group-title="CAZA Y PESCA",IBERALIA 100% CAZA
+#EXTINF:-1 tvg-id="" tvg-name="[ES] IBERALIA 100% CAZA HD 1080P" tvg-logo="" group-title="CAZA Y PESCA",IBERALIA 100% PESCA
 http://linextral.site:8080/BigMediaNews/TodayWeRule/218517
-#EXTINF:-1 tvg-id="13c.cl" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="" group-title="CAZA Y PESCA",IBERALIA 100% PESCA 
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="[ES] IBERALIA 100% PESCA HD 1080P" tvg-logo="" group-title="CAZA Y PESCA",IBERALIA 100% CAZA 
 http://linextral.site:8080/BigMediaNews/TodayWeRule/218519
 #EXTINF:-1 tvg-id="cazaypesca.es" tvg-name="[ES] CAZA y PESCA HD 1080P" tvg-logo="https://logo.iptveditor.com/cazaypesca.png" group-title="CAZA Y PESCA",CAZA y PESCA 
 http://linextral.site:8080/BigMediaNews/TodayWeRule/218521
