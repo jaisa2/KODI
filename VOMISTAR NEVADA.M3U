@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://685172311872321276.ofre802.xyz:80/play/Nevad1102B/Aepddpdft123/321276.ts
 #EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
